@@ -1,2 +1,3 @@
-# common
-Common module for SPA development
+# Common application
+
+Experimental basic application for future developments.
